@@ -67,11 +67,11 @@ Please download it manually and place it in the `data/` folder before running th
 ## Results (Test Set)
 
 | Model                  | Accuracy | Recall | ROC-AUC |
-|------------------------|----------|-------|----------|
- Logistic Regression      0.73      **0.85**     0.84  
- Gradient Boosting        0.80        0.50       0.84    
- HistGradientBoosting     0.80        0.49     **0.85** 
- XGBoost                  0.71        0.83       0.84    
+|-------------------------|----------|--------|---------|
+| Logistic Regression     | 0.73     | **0.85** | 0.84    |
+| Gradient Boosting       | 0.80     | 0.50   | 0.84    |
+| HistGradientBoosting    | 0.80     | 0.49   | **0.85** |
+| XGBoost                 | 0.71     | 0.83   | 0.84    |
 
 ---
 
