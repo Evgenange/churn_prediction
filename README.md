@@ -52,15 +52,15 @@ Please download it manually and place it in the `data/` folder before running th
 
 ## Repository Structure
 
-data/ # place dataset here(not included)
-notebooks/ 
+- data/ # place dataset here(not included)
+- notebooks/ 
     1. python_eda.ipynb #Exploratory Data Analysis (Python)
     2. sql_analysis.ipynb #SQL-based churn insights
     3. ml_models.ipynb # Machine Learning & Evaluation
 
-requirements.txt
-README.md # Project Documentation
-LICENSE # MIT licence
+- requirements.txt
+- README.md # Project Documentation
+- LICENSE # MIT licence
 
 ---
 
